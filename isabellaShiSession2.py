@@ -34,6 +34,7 @@ def GCcontent(dnaSeq):
   return GC_content
 
 
+
 #borrowed this from lab 2 :)
 def read_FASTA(file_path):
 
